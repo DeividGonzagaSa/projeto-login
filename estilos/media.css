@@ -2,6 +2,13 @@
 
 /*
 
-    
+celular - 480px
+tablet - 768 px
+desktop - 769-1200px
+tv - 1201px
 
 */
+
+@media screen and (min-width: 768px) { 
+
+}
