@@ -64,3 +64,41 @@ div#formulario > p {
     font-size: 0.8em;
 }
 
+form > input[type=submit] { 
+    display: block;
+    font-size: 1em;
+    width: 100%;
+    height: 40px;
+    background-color: #3fc2bd;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+form > input[type=submit]:hover { 
+    background-color: #042e2d;
+    color: white;
+}
+
+form > a.btn { 
+    display: block;
+    text-align: center;
+    background-color: #f2ffff;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    height: 40px;
+    border: 1px solid #2b7270;
+    border-radius: 10px;
+    font-size: 1em;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
+form > a.btn:hover { 
+    background-color: #83c4c1;
+    color: black;
+}
+
+form > a > span { 
+    font-size: 0.8em;
+}
