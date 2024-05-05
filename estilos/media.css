@@ -42,19 +42,19 @@ tv - 1201px
     }
 
     section#login { 
-        width: 900px;
-        height: 400px;
+        width: 950px;
+        height: 350px;
     }
 
     section#login > div#imagem { 
         float: right;
-        width: 40%;
+        width: 50%;
         height: 100%;
     }¨
 
     section#login > div#formulario { 
         float: left;
-        width: 60%;            
+        width: 50%;            
     }
 
     div#formulario > h1 { 
